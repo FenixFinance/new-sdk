@@ -16,7 +16,7 @@ import {
   Step,
   Token,
   TokenAmount,
-} from '@fenix.finance/types'
+} from '../types'
 
 import {
   Config,
