@@ -24,7 +24,7 @@ import {
   ExecutionData,
   ActiveRouteDictionary,
   ExecutionSettings,
-} from './types'
+} from '@fenix.finance/types'
 
 class FENIX {
   private activeRoutes: ActiveRouteDictionary = {}
